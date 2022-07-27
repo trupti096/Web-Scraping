@@ -19,5 +19,3 @@ def analyse_movie_genre():
     return genre_dict
 
 analyse_movie_genre()
-
-#task11
