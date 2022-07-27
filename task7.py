@@ -22,5 +22,3 @@ def analyse_movies_directors():
         return director_dic
 
 analyse_movies_directors()
-
-#task7
