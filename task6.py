@@ -22,5 +22,3 @@ def analyse_movie_language(data):
 
     return language_dict
 analyse_movie_language(data)
-
-#task6
