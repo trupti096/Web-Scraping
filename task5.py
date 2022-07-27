@@ -16,5 +16,3 @@ def get_movie_list_details():
 
     return movie_list
 movie_info=get_movie_list_details()
-
-#task5
