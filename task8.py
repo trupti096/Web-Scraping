@@ -25,5 +25,3 @@ def get_movie_list_details():
             json.dump(movie_list,file5,indent=4)
             print(movie_list)
 get_movie_list_details()
-
-#task8
