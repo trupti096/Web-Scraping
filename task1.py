@@ -41,8 +41,3 @@ def scrap_top_list():
         json.dump(list,file,indent=4)
     return list
 movie_data=scrap_top_list()
-
-
-
-
-#Task 1 from rotten_tomatoes
