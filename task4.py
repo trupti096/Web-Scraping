@@ -76,10 +76,4 @@ def scrape_movie_details(movieurl,movieName):
         json.dump(dict1,file4,indent=4)
         a=json.dumps(dict1)
         return dict1
-#scrape_movie_details("https://www.rottentomatoes.com/m/i_lost_my_body",movieName)
-
-#scrape_movie_details("https://www.rottentomatoes.com/m/toy_story_4",movieName)
-
 scrape_movie_details("https://www.rottentomatoes.com/m/i_lost_my_body",movieName)
-
-#task4
