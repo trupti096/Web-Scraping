@@ -30,6 +30,3 @@ def group_by_decade(movies):
         return movies_dic
 store=group_by_decade(movie_data)
 pprint.pprint(store)
-
-#task3
-
