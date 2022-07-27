@@ -17,5 +17,3 @@ def group_by_year(movies):
         json.dump(empty_dic,file,indent=4)
         a=json.dumps(empty_dic)
 year_=group_by_year(movie_data)
-
-#task2
