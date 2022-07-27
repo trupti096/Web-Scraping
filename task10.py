@@ -20,5 +20,3 @@ def analyse_director_and_language():
         json.dump(movie_dict,json_data,indent=4)
     return movie_dict
 analyse_director_and_language()
-
-#task10
