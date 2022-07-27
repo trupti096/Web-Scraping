@@ -46,5 +46,3 @@ def scrape_movie_cast(movie_name,movie_url):
     return list
 
 scrape_movie_cast("toy_story_4","https://www.rottentomatoes.com/m/toy_story_4")
-
-#task12
